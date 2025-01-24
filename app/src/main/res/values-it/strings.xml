@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Garage</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Progetti</string>
+    <string name="nav_add">Aggiungi</string>
+    <string name="nav_gallery">Galleria</string>
+    <string name="nav_vehicles">Veicoli</string>
+    
+    <!-- Vehicles -->
+    <string name="vehicles_title">I Tuoi Veicoli</string>
+    <string name="add_vehicle">Aggiungi Veicolo</string>
+    <string name="vehicle_name">Nome Veicolo</string>
+    <string name="vehicle_make">Marca</string>
+    <string name="vehicle_model">Modello</string>
+    <string name="vehicle_year">Anno</string>
+    <string name="save_vehicle">Salva Veicolo</string>
+    <string name="upcoming_maintenance">Manutenzioni in arrivo: %1$d</string>
+    
+    <!-- Maintenance -->
+    <string name="maintenance_title">Manutenzione</string>
+    <string name="scheduled_maintenance">Manutenzioni Programmate</string>
+    <string name="maintenance_history">Storico Manutenzioni</string>
+    <string name="add_maintenance">Programma Manutenzione</string>
+    <string name="maintenance_type">Tipo di Manutenzione</string>
+    <string name="maintenance_description">Descrizione</string>
+    <string name="maintenance_interval_months">Intervallo (mesi)</string>
+    <string name="maintenance_interval_mileage">Intervallo (km)</string>
+    <string name="maintenance_estimated_cost">Costo Stimato (€)</string>
+    <string name="maintenance_mileage">Chilometraggio</string>
+    <string name="maintenance_cost">Costo</string>
+    <string name="maintenance_notes">Note</string>
+    <string name="maintenance_complete">Completa</string>
+    <string name="maintenance_date">Data: %1$s</string>
+    <string name="maintenance_mileage_value">Chilometraggio: %1$d km</string>
+    <string name="maintenance_cost_value">Costo: €%1$.2f</string>
+    
+    <!-- Maintenance Types -->
+    <string name="maintenance_type_ordinary">Ordinaria</string>
+    <string name="maintenance_type_extraordinary">Straordinaria</string>
+    <string name="maintenance_type_inspection">Revisione</string>
+    <string name="maintenance_type_modification">Modifica</string>
+    
+    <!-- Common -->
+    <string name="back">Indietro</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+
+    <!-- Home -->
+    <string name="active_projects">Progetti Attivi</string>
+    <string name="upcoming_maintenance_title">Manutenzioni in Scadenza</string>
+
+    <!-- Projects -->
+    <string name="projects_title">Progetti</string>
+    <string name="project_name">Nome Progetto</string>
+    <string name="project_description">Descrizione</string>
+    <string name="project_status">Stato</string>
+    <string name="project_vehicle">Veicolo</string>
+    <string name="add_project">Nuovo Progetto</string>
+    <string name="project_cost">Costo Totale: €%1$.2f</string>
+    <string name="project_modifications">Modifiche: %1$d</string>
+
+    <!-- Gallery -->
+    <string name="gallery_title">Galleria Ispirazioni</string>
+    <string name="add_image">Aggiungi Immagine</string>
+    <string name="gallery_filter_all">Tutte</string>
+    <string name="gallery_filter_projects">Progetti</string>
+    <string name="gallery_filter_maintenance">Manutenzione</string>
+    <string name="gallery_empty">Nessuna immagine</string>
+    <string name="gallery_upload_error">Errore nel caricamento dell\'immagine</string>
+    <string name="gallery_delete_confirm">Eliminare l\'immagine?</string>
+
+    <!-- Project Detail -->
+    <string name="edit_project">Modifica Progetto</string>
+    <string name="modifications_title">Modifiche</string>
+    <string name="inspiration_images">Immagini di Ispirazione</string>
+    <string name="project_status_value">Stato: %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Impostazioni</string>
+    <string name="theme_settings">Tema</string>
+    <string name="notification_settings">Notifiche</string>
+    <string name="maintenance_notifications">Notifiche Manutenzione</string>
+    <string name="project_notifications">Notifiche Progetti</string>
+
+    <!-- Modifications -->
+    <string name="modification_cost">Costo: %1$s</string>
+    <string name="status_planned">Pianificata</string>
+    <string name="status_in_progress">In Corso</string>
+    <string name="status_completed">Completata</string>
+    <string name="status_cancelled">Annullata</string>
+
+    <!-- Notifications -->
+    <string name="channel_maintenance_name">Notifiche Manutenzione</string>
+    <string name="channel_maintenance_description">Notifiche sulla manutenzione dei veicoli</string>
+    <string name="channel_project_name">Aggiornamenti Progetti</string>
+    <string name="channel_project_description">Notifiche sugli aggiornamenti dei progetti</string>
+    <string name="maintenance_due">Manutenzione in Scadenza: %1$s</string>
+    <string name="project_update">Aggiornamento Progetto: %1$s</string>
+</resources> 

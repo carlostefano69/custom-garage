@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Custom Garage</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_gallery">Gallery</string>
+    <string name="nav_vehicles">Vehicles</string>
+    
+    <!-- Vehicles -->
+    <string name="vehicles_title">Your Vehicles</string>
+    <string name="add_vehicle">Add Vehicle</string>
+    <string name="vehicle_name">Vehicle Name</string>
+    <string name="vehicle_make">Make</string>
+    <string name="vehicle_model">Model</string>
+    <string name="vehicle_year">Year</string>
+    <string name="save_vehicle">Save Vehicle</string>
+    <string name="upcoming_maintenance">Upcoming maintenance: %1$d</string>
+    
+    <!-- Maintenance -->
+    <string name="maintenance_title">Maintenance</string>
+    <string name="scheduled_maintenance">Scheduled Maintenance</string>
+    <string name="maintenance_history">Maintenance History</string>
+    <string name="add_maintenance">Schedule Maintenance</string>
+    <string name="maintenance_type">Maintenance Type</string>
+    <string name="maintenance_description">Description</string>
+    <string name="maintenance_interval_months">Interval (months)</string>
+    <string name="maintenance_interval_mileage">Interval (km)</string>
+    <string name="maintenance_estimated_cost">Estimated Cost (€)</string>
+    <string name="maintenance_mileage">Mileage</string>
+    <string name="maintenance_cost">Cost</string>
+    <string name="maintenance_notes">Notes</string>
+    <string name="maintenance_complete">Complete</string>
+    <string name="maintenance_date">Date: %1$s</string>
+    <string name="maintenance_mileage_value">Mileage: %1$d km</string>
+    <string name="maintenance_cost_value">Cost: €%1$.2f</string>
+    
+    <!-- Maintenance Types -->
+    <string name="maintenance_type_ordinary">Ordinary</string>
+    <string name="maintenance_type_extraordinary">Extraordinary</string>
+    <string name="maintenance_type_inspection">Inspection</string>
+    <string name="maintenance_type_modification">Modification</string>
+    
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    
+    <!-- Home -->
+    <string name="active_projects">Active Projects</string>
+    <string name="upcoming_maintenance_title">Upcoming Maintenance</string>
+    
+    <!-- Projects -->
+    <string name="projects_title">Projects</string>
+    <string name="project_name">Project Name</string>
+    <string name="project_description">Description</string>
+    <string name="project_status">Status</string>
+    <string name="project_vehicle">Vehicle</string>
+    <string name="add_project">New Project</string>
+    <string name="project_cost">Total Cost: €%1$.2f</string>
+    <string name="project_modifications">Modifications: %1$d</string>
+    
+    <!-- Gallery -->
+    <string name="gallery_title">Inspiration Gallery</string>
+    <string name="add_image">Add Image</string>
+    <string name="gallery_filter_all">All</string>
+    <string name="gallery_filter_projects">Projects</string>
+    <string name="gallery_filter_maintenance">Maintenance</string>
+    <string name="gallery_empty">No images yet</string>
+    <string name="gallery_upload_error">Error uploading image</string>
+    <string name="gallery_delete_confirm">Delete image?</string>
+
+    <!-- Project Detail -->
+    <string name="edit_project">Edit Project</string>
+    <string name="modifications_title">Modifications</string>
+    <string name="inspiration_images">Inspiration Images</string>
+    <string name="project_status_value">Status: %1$s</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="theme_settings">Theme</string>
+    <string name="notification_settings">Notifications</string>
+    <string name="maintenance_notifications">Maintenance Notifications</string>
+    <string name="project_notifications">Project Notifications</string>
+
+    <!-- Modifications -->
+    <string name="modification_cost">Cost: %1$s</string>
+    <string name="status_planned">Planned</string>
+    <string name="status_in_progress">In Progress</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_cancelled">Cancelled</string>
+
+    <!-- Notifications -->
+    <string name="channel_maintenance_name">Maintenance Notifications</string>
+    <string name="channel_maintenance_description">Notifications about vehicle maintenance</string>
+    <string name="channel_project_name">Project Updates</string>
+    <string name="channel_project_description">Notifications about project updates</string>
+    <string name="maintenance_due">Maintenance Due: %1$s</string>
+    <string name="project_update">Project Update: %1$s</string>
+
+    <!-- Subscription -->
+    <string name="subscription_title">Abbonamento</string>
+    <string name="subscription_status">Stato abbonamento</string>
+    <string name="subscription_active">Attivo</string>
+    <string name="subscription_inactive">Non attivo</string>
+    <string name="subscription_expires">Scade il: %1$s</string>
+
+    <!-- Subscription Tiers -->
+    <string name="tier_free">Base</string>
+    <string name="tier_free_description">1 veicolo, funzionalità base</string>
+    <string name="tier_premium">Premium</string>
+    <string name="tier_premium_description">5 veicoli, tutte le funzionalità</string>
+    <string name="tier_pro">Pro</string>
+    <string name="tier_pro_description">Veicoli illimitati, tutte le funzionalità</string>
+
+    <!-- Payments -->
+    <string name="payment_method">Metodo di pagamento</string>
+    <string name="payment_amount">Importo: €%1$.2f</string>
+    <string name="payment_status">Stato: %1$s</string>
+    <string name="payment_date">Data: %1$s</string>
+    <string name="payment_history">Storico pagamenti</string>
+    <string name="payment_method_paypal">PayPal</string>
+    <string name="payment_method_bank">Bonifico bancario</string>
+
+    <!-- Actions -->
+    <string name="subscribe">Abbonati</string>
+    <string name="cancel_subscription">Annulla abbonamento</string>
+    <string name="confirm_payment">Conferma pagamento</string>
+    <string name="auto_renew">Rinnovo automatico</string>
+</resources>
