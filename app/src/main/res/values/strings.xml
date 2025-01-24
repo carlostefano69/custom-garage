@@ -129,4 +129,14 @@
     <string name="cancel_subscription">Annulla abbonamento</string>
     <string name="confirm_payment">Conferma pagamento</string>
     <string name="auto_renew">Rinnovo automatico</string>
+
+    <string name="period_month">Mese</string>
+    <string name="period_quarter">Trimestre</string>
+    <string name="period_year">Anno</string>
+    <string name="total_revenue">Ricavi Totali</string>
+    <string name="active_subscriptions">Abbonamenti Attivi</string>
+    <string name="subscription_stats">Statistiche Abbonamenti</string>
+    <string name="renewal_rate">Tasso di Rinnovo</string>
+    <string name="churn_rate">Tasso di Abbandono</string>
+    <string name="avg_subscription_length">Durata Media Abbonamento</string>
 </resources>
